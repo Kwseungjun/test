@@ -17,6 +17,7 @@ typedef struct SparseMatrix {
 } SparseMatrix;
 
 //테스트용 주석입니다
+//test22
 
 SparseMatrix matrix_transpose2(SparseMatrix a)
 {
